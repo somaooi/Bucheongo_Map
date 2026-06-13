@@ -1,0 +1,91 @@
+body{
+    background-image: url('./다운로드 (1).jpg');
+    background-size: cover;
+    min-height: 10vh;
+    background-position: top center;
+    background-attachment: fixed;
+}
+.title_page {
+    padding: 80px 20px 20px 20px;
+}
+.explan_page {
+    padding: 20px 20px 20px 20px;
+}
+.picture_page{
+    padding: 20px 20px 20px 20px;
+}
+.title {
+    text-align: center;
+}
+
+.explan_title {
+    text-align: left;
+}
+
+.explan {
+    text-align: center;
+}
+.button {
+    background-color: white;
+    width: 300px;
+    border-radius: 50px;
+    display: block;
+    margin-left: auto; 
+    margin-right: auto;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 15px 30px;
+    border-radius: 10px;
+}
+.to_explan {
+    margin-top: 200px;
+}
+.to_picture {
+    margin-top: 50px;
+}
+.all_explan {
+    background-color: rgba(255, 255, 255, 0.75);  
+    display: inline-block;
+}
+.picture {
+    margin-top: 100px;
+    width: 300px;
+    height: 300px;
+    display: block;
+    margin-left: auto; 
+    margin-right: auto;
+}
+.from_pictrue_to_title {
+    margin-top: 150px;
+}
+.all_map {
+    position: relative;
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    display: block;
+    margin-left: auto; 
+    margin-right: auto;
+}
+.butterfly img {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 50px;
+    left: 0px;
+    z-index: 10;
+}
+
+.butterflypicture {
+    display: block;
+    width: 300px;
+    height: 300px;
+    border-radius: 16px;
+    margin-left: auto; 
+    margin-right: auto;
+}
+.butterfly_explane {
+    background-color: rgba(255, 255, 255, 0.75);  
+    display: inline-block;
+}
+/* https://i.pinimg.com/1200x/ab/fb/36/abfb361e405a15980f0a0f65b2273443.jpg
