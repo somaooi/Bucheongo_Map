@@ -69,10 +69,10 @@ body{
 }
 .butterfly img {
     position: absolute;
-    width: 100px;
-    height: 100px;
-    top: 50px;
-    left: 0px;
+    width: 70px;
+    height: auto;
+    top: 30px;
+    left: 10px;
     z-index: 10;
 }
 
@@ -83,9 +83,55 @@ body{
     border-radius: 16px;
     margin-left: auto; 
     margin-right: auto;
+    margin-bottom: 20px;
 }
 .butterfly_explane {
     background-color: rgba(255, 255, 255, 0.75);  
     display: inline-block;
+}
+
+.egg_flower img {
+    position: absolute;
+    width: 70px;
+    height: auto;
+    top: 0px;
+    left: 150px;
+    z-index: 10;
+}
+
+.iron_flower img {
+    position: absolute;
+    width: 70px;
+    height: auto;
+    top: 50px;
+    left: 210px;
+    z-index: 10;
+}
+
+.red_flower img {
+    position: absolute;
+    width: 70px;
+    height: autopx;
+    top: 190px;
+    left: 150px;
+    z-index: 10;
+}
+
+.wattermelon img {
+    position: absolute;
+    width: 70px;
+    height: auto;
+    top: 120px;
+    left: 40px;
+    z-index: 10;
+}
+
+.white_flower img {
+    position: absolute;
+    width: 70px;
+    height: auto;
+    top: 200px;
+    left: 50px;
+    z-index: 10;
 }
 /* https://i.pinimg.com/1200x/ab/fb/36/abfb361e405a15980f0a0f65b2273443.jpg
